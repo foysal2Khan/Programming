@@ -1,3 +1,4 @@
+"codeforce:546A"
 k, n, w = map(int, input().split())
 payable = 0
 
